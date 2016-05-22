@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="6"
+   name=""
+   committed-date="2015-03-19T02:53:00.725977Z"
+   url="http://tuatec.ddns.net/svn/minetest/mods/ceramicas"
+   kind="dir"
+   uuid="a238d604-e721-43cb-88b8-4de01f8bf9cc"
+   repos="http://tuatec.ddns.net/svn"
+   revision="21"/>
+<entry
+   committed-rev="6"
+   name="licence.txt"
+   text-time="2015-05-17T18:24:17.955765Z"
+   committed-date="2015-03-19T02:53:00.725977Z"
+   checksum="bdde857843fe0ad85040b53f314cf186"
+   kind="file"
+   prop-time="2015-05-17T18:24:17.029712Z"/>
+<entry
+   committed-rev="6"
+   name="marmore.lua"
+   text-time="2015-05-17T18:24:17.989767Z"
+   committed-date="2015-03-19T02:53:00.725977Z"
+   checksum="71e66bc157c486c80766acf99661bc36"
+   kind="file"
+   prop-time="2015-05-17T18:24:17.056713Z"/>
+<entry
+   committed-rev="6"
+   name="madeira_florida.lua"
+   text-time="2015-05-17T18:24:17.978766Z"
+   committed-date="2015-03-19T02:53:00.725977Z"
+   checksum="94c49e316f4e61acfd95b8f95349344f"
+   kind="file"
+   prop-time="2015-05-17T18:24:17.051713Z"/>
+<entry
+   committed-rev="6"
+   name="vermelha.lua"
+   text-time="2015-05-17T18:24:18.015768Z"
+   committed-date="2015-03-19T02:53:00.725977Z"
+   checksum="c1213d45b59b48fa11f559b8de2c388b"
+   kind="file"
+   prop-time="2015-05-17T18:24:17.856759Z"/>
+<entry
+   committed-rev="6"
+   name="init.lua"
+   text-time="2015-05-17T18:24:18.002767Z"
+   committed-date="2015-03-19T02:53:00.725977Z"
+   checksum="b9e7ad2bffaf0891ca81dffeb8a5494c"
+   kind="file"
+   prop-time="2015-05-17T18:24:17.060714Z"/>
+<entry
+   name="textures"
+   kind="dir"/>
+<entry
+   committed-rev="6"
+   name="rosa.lua"
+   text-time="2015-05-17T18:24:18.027769Z"
+   committed-date="2015-03-19T02:53:00.725977Z"
+   checksum="36a9d182a80845fc75e88598bf8af44f"
+   kind="file"
+   prop-time="2015-05-17T18:24:17.863759Z"/>
+<entry
+   committed-rev="6"
+   name="laranja.lua"
+   text-time="2015-05-17T18:24:18.040770Z"
+   committed-date="2015-03-19T02:53:00.725977Z"
+   checksum="5f3a74fe92031c77ccdc166090c30c4f"
+   kind="file"
+   prop-time="2015-05-17T18:24:17.868760Z"/>
+<entry
+   committed-rev="6"
+   name="preto1.lua"
+   text-time="2015-05-17T18:24:17.880760Z"
+   committed-date="2015-03-19T02:53:00.725977Z"
+   checksum="a0d2bcc542662b054f94b91c76d148b7"
+   kind="file"
+   prop-time="2015-05-17T18:24:16.975709Z"/>
+<entry
+   committed-rev="6"
+   name="preto2.lua"
+   text-time="2015-05-17T18:24:17.907762Z"
+   committed-date="2015-03-19T02:53:00.725977Z"
+   checksum="7a8d3e80091ca2649a4c2601bda13237"
+   kind="file"
+   prop-time="2015-05-17T18:24:16.997710Z"/>
+<entry
+   committed-rev="6"
+   name="folha_amarela.lua"
+   text-time="2015-05-17T18:24:17.894761Z"
+   committed-date="2015-03-19T02:53:00.725977Z"
+   checksum="bb2dcf7405c441b51a81d94a89a163d9"
+   kind="file"
+   prop-time="2015-05-17T18:24:16.986709Z"/>
+<entry
+   committed-rev="6"
+   name="aqua_verde.lua"
+   text-time="2015-05-17T18:24:17.920763Z"
+   committed-date="2015-03-19T02:53:00.725977Z"
+   checksum="ced6fa80f0c9330cc68865ea5b4414fd"
+   kind="file"
+   prop-time="2015-05-17T18:24:17.009711Z"/>
+<entry
+   committed-rev="6"
+   name="screenshot.png"
+   text-time="2015-05-17T18:24:17.967765Z"
+   committed-date="2015-03-19T02:53:00.725977Z"
+   checksum="96e4a9c202e7b86a9edd1e0fbc8a6b85"
+   kind="file"
+   prop-time="2015-05-17T18:24:17.045713Z"/>
+<entry
+   committed-rev="6"
+   name="depends.txt"
+   text-time="2015-05-17T18:24:17.943764Z"
+   committed-date="2015-03-19T02:53:00.725977Z"
+   checksum="6d01c7c5f545d6549ef9e39ccc4af0b8"
+   kind="file"
+   prop-time="2015-05-17T18:24:17.024712Z"/>
+<entry
+   committed-rev="6"
+   name="purpura.lua"
+   text-time="2015-05-17T18:24:17.931763Z"
+   committed-date="2015-03-19T02:53:00.725977Z"
+   checksum="4d15852b16d8e654002888398a3a22ad"
+   kind="file"
+   prop-time="2015-05-17T18:24:17.019711Z"/>
+</wc-entries>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="6"
+   name=""
+   committed-date="2015-03-19T02:53:00.725977Z"
+   url="http://tuatec.ddns.net/svn/minetest/mods/ceramicas/textures"
+   kind="dir"
+   uuid="a238d604-e721-43cb-88b8-4de01f8bf9cc"
+   repos="http://tuatec.ddns.net/svn"
+   revision="21"/>
+<entry
+   committed-rev="6"
+   name="tex_aqua_verde.png"
+   text-time="2015-05-17T18:24:17.811757Z"
+   committed-date="2015-03-19T02:53:00.725977Z"
+   checksum="513fede4447c950a588ba4cb2cc1e084"
+   kind="file"
+   prop-time="2015-05-17T18:24:17.674749Z"/>
+<entry
+   committed-rev="6"
+   name="tex_ajulejo_rosa.png"
+   text-time="2015-05-17T18:24:17.823757Z"
+   committed-date="2015-03-19T02:53:00.725977Z"
+   checksum="43ddd56c5f87bf9a44387c0202cbeefb"
+   kind="file"
+   prop-time="2015-05-17T18:24:17.693750Z"/>
+<entry
+   committed-rev="6"
+   name="tex_azulejo_laranja.png"
+   text-time="2015-05-17T18:24:17.710751Z"
+   committed-date="2015-03-19T02:53:00.725977Z"
+   checksum="b71c14440318b81c3f4e795a232e7e29"
+   kind="file"
+   prop-time="2015-05-17T18:24:17.089715Z"/>
+<entry
+   committed-rev="6"
+   name="tex_ajulejo_preto.png"
+   text-time="2015-05-17T18:24:17.723751Z"
+   committed-date="2015-03-19T02:53:00.725977Z"
+   checksum="711c071dea07d2f41ff510af24a75099"
+   kind="file"
+   prop-time="2015-05-17T18:24:17.096716Z"/>
+<entry
+   committed-rev="6"
+   name="tex_madeira_florida.png"
+   text-time="2015-05-17T18:24:17.736752Z"
+   committed-date="2015-03-19T02:53:00.725977Z"
+   checksum="73b25f4e4e212875494c2ee6586d3eaa"
+   kind="file"
+   prop-time="2015-05-17T18:24:17.255725Z"/>
+<entry
+   committed-rev="6"
+   name="tex_marmore.png"
+   text-time="2015-05-17T18:24:17.748753Z"
+   committed-date="2015-03-19T02:53:00.725977Z"
+   checksum="5e9a5d6d783071bcdfca6cf777d899d7"
+   kind="file"
+   prop-time="2015-05-17T18:24:17.270726Z"/>
+<entry
+   committed-rev="6"
+   name="tex_ajulejo_preto2.png"
+   text-time="2015-05-17T18:24:17.759754Z"
+   committed-date="2015-03-19T02:53:00.725977Z"
+   checksum="7caed452c1440f15213694b1d166cac6"
+   kind="file"
+   prop-time="2015-05-17T18:24:17.359731Z"/>
+<entry
+   committed-rev="6"
+   name="tex_ajulejo_purpura.png"
+   text-time="2015-05-17T18:24:17.772754Z"
+   committed-date="2015-03-19T02:53:00.725977Z"
+   checksum="f79da98184bf452676f4e72c847208f2"
+   kind="file"
+   prop-time="2015-05-17T18:24:17.376732Z"/>
+<entry
+   committed-rev="6"
+   name="tex_azulejo_vermelho.png"
+   text-time="2015-05-17T18:24:17.785755Z"
+   committed-date="2015-03-19T02:53:00.725977Z"
+   checksum="f556b3dddda82825cb4092243c746dc4"
+   kind="file"
+   prop-time="2015-05-17T18:24:17.588744Z"/>
+<entry
+   committed-rev="6"
+   name="tex_folha_amarela.png"
+   text-time="2015-05-17T18:24:17.797756Z"
+   committed-date="2015-03-19T02:53:00.725977Z"
+   checksum="086c3d691cca9668eba9b536b50652ef"
+   kind="file"
+   prop-time="2015-05-17T18:24:17.600744Z"/>
+</wc-entries>
